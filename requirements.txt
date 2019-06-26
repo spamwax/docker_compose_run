@@ -1,0 +1,4 @@
+Django==1.5.5
+-e git+https://github.com/toastdriven/django-haystack.git@6b67401aea8203fa172ae49a83c2c5356322d8b5#egg=django-haystack
+psycopg2==2.5.4
+Whoosh==2.6.0
